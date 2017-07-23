@@ -4,6 +4,7 @@
     "description": "Build a functioning \"Would you Rather\" application using React.js, Redux, Firebase, and Immutable.js.",
     "main": "webpack.config.js",
     "dependencies": {
+        "firebase": "^4.1.3",
         "react": "^15.6.1",
         "react-dom": "^15.6.1",
         "react-redux": "^5.0.5",
